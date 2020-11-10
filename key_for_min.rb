@@ -11,6 +11,5 @@ name_hash.each do |key, value|
     lowest_key = key
 end
 end
-
-key_for_min_value(ikea)
+lowest_key
 end
