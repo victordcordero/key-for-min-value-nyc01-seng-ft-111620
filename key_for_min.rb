@@ -6,4 +6,3 @@ name_hash.each_with_index do |(key, value), index|
   if value == 1
     puts name_hash
 end
-end
